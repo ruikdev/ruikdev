@@ -19,7 +19,7 @@
 ---
 
 ## 📊 **Statistiques GitHub**
-![Votre GitHub Stats](https://github-readme-stats.vercel.app/api?username=[VOTRE_USERNAME]&show_icons=true&theme=[THEME])
+![Votre GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruikdev&show_icons=true&theme=dark)
 
 ---
 
