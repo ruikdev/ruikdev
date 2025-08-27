@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Axel
 
 **Développeur Full-Stack**  
-📍 Clermont-Ferrant, France | ✉️ axel@athenox.dev
+📍 clermont-ferrand, France | ✉️ axel@athenox.dev
 
 ---
 
