@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Axel
 
-<!--
-**ruikdev/ruikdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur Full-Stack**  
+📍 Clermont-Ferrant, France | ✉️ axel@athenox.dev
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Compétences Techniques**
+- **Langages** : Python, HTML, Skript
+- **Outils** : VScode, GIT/Github, Docker
+- **Domaines** : web, api
+
+---
+
+## 🌱 **Actuellement**
+- 🔭 Je travaille sur Lumina & Voisinéo
+- 🌱 J'apprends Tailwind
+
+---
+
+## 📊 **Statistiques GitHub**
+![Votre GitHub Stats](https://github-readme-stats.vercel.app/api?username=[VOTRE_USERNAME]&show_icons=true&theme=[THEME])
+
+---
+
+## 📫 **Contact**
+- [Portfolio](https://ruikdev.github.io)
+- Discord : [@ruikdev](https://discord.com/users/927137288763342868)
