@@ -13,7 +13,7 @@
 ---
 
 ## 🌱 **Actuellement**
-- 🔭 Je travaille sur Lumina & Voisinéo
+- 🔭 Je travaille sur Lumina
 - 🌱 J'apprends Tailwind
 
 ---
