@@ -19,7 +19,8 @@
 ---
 
 ## 📊 **Statistiques GitHub**
-![Votre GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruikdev&show_icons=true&theme=dark)
+![github stats](https://raw.githubusercontent.com/ruikdev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![github stats](https://raw.githubusercontent.com/ruikdev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 
