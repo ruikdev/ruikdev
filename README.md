@@ -20,6 +20,7 @@
 
 ## 📊 **Statistiques GitHub**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruikdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruikdev&layout=compact&theme=radical)
 
 ---
 
