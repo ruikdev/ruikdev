@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Axel
 
 **Développeur Full-Stack**  
-📍 Clermont-Ferrand, France | ✉️ axel@athenox.dev
+📍 Clermont-Ferrand, France | ✉️ axel@ruikdev.me
 
 ---
 
@@ -27,5 +27,5 @@
 ---
 
 ## 📫 **Contact**
-- [Portfolio](https://ruikdev.github.io)
+- [Portfolio](https://ruikdev.me)
 - Discord : [@ruikdev](https://discord.com/users/927137288763342868)
