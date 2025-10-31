@@ -29,3 +29,4 @@
 ## 📫 **Contact**
 - [Portfolio](https://ruikdev.me)
 - Discord : [@ruikdev](https://discord.com/users/927137288763342868)
+- Mail: [axel@ruikdev.me](mailto: axel@ruikdev.me)
