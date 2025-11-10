@@ -13,8 +13,8 @@
 ---
 
 ## 🌱 **Actuellement**
-- 🔭 Je travaille sur Lumina
-- 🌱 J'apprends Tailwind
+- 🔭 Je travaille sur Opendirecte
+- 🌱 J'apprends Javascript
 
 ---
 
