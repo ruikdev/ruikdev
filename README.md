@@ -23,7 +23,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tonPseudo&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axeldev&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruikdev&layout=compact&theme=radical&langs_count=6)
 ---
 
 ## 📫 **Contact**
