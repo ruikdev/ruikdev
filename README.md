@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Axel
 
-**Développeur Full-Stack**  
+**Développeur Full-Stack amateur**  
 📍 Clermont-Ferrand, France | ✉️ axel@ruikdev.me
 
 ---
