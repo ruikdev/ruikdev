@@ -6,9 +6,12 @@
 ---
 
 ## 🛠️ **Compétences Techniques**
-- **Langages** : Python, HTML, Skript
-- **Outils** : VScode, GIT/Github, Docker
-- **Domaines** : web, api
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,flutter,python,html,css,mint,TailwindCSS,vscode,JavaScript,flask,Powershell,github,discord,PyCharm,Webstorm" />
+  </a>
+</p>
+``` :contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -19,11 +22,8 @@
 ---
 
 ## 📊 **Statistiques GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruikdev&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=tonPseudo&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruikdev&layout=compact&theme=radical&langs_count=6)
 ---
 
 ## 📫 **Contact**
