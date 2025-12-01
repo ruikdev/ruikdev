@@ -8,10 +8,10 @@
 ## 🛠️ **Compétences Techniques**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,flutter,python,html,css,mint,TailwindCSS,vscode,JavaScript,flask,Powershell,github,discord,PyCharm,Webstorm" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,python,html,css,mint,tailwindcss,vscode,javascript,flask,powershell,github,discord,PyCharm,Webstorm" />
   </a>
 </p>
-``` :contentReference[oaicite:5]{index=5}
+
 
 ---
 
