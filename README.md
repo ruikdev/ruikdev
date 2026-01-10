@@ -16,7 +16,7 @@
 ---
 
 ## 🌱 **Actuellement**
-- 🔭 Je travaille sur Opendirecte
+- 🔭 Je travaille sur Swiftly
 - 🌱 J'apprends Javascript
 
 ---
