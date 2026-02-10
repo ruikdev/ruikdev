@@ -8,7 +8,7 @@
 ## 🛠️ **Compétences Techniques**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,debian,python,html,css,mint,tailwindcss,vscode,javascript,flask,powershell,github,discord,pycharm,webstorm,notion,windows,discordjs" />
+    <img src="https://skillicons.dev/icons?i=git,debian,python,html,css,mint,tailwindcss,vscode,javascript,flask,powershell,github,discord,pycharm,webstorm,notion,windows,discordjs,angular" />
   </a>
 </p>
 
