@@ -16,8 +16,8 @@
 ---
 
 ## 🌱 **Actuellement**
-- 🔭 Je travaille sur Swiftly
-- 🌱 J'apprends Javascript
+- 🔭 Je travaille sur Klub
+- 🌱 J'apprends Angular
 
 ---
 
